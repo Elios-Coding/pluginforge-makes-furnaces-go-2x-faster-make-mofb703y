@@ -1,0 +1,8 @@
+name: FastFurnace
+version: 1.0.0
+main: com.pluginforge.generated.GeneratedPlugin
+api-version: '1.21'
+commands:
+  fastfurnace:
+    description: Toggle or set the speed of furnaces.
+    usage: /fastfurnace <on|off|number>
